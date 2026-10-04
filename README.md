@@ -1,4 +1,4 @@
-# General
+# Navigation Page
 Take a gander with these projects. 
 
 ### Finished Projects
